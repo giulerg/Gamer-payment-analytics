@@ -39,5 +39,5 @@ Overall, the analysis allowed us to identify growth and churn dynamics and laid 
 ## Materials
 - [SQL queries](./queries.sql)
 - [Dashboard on Tableau Public](https://public.tableau.com/views/GamerpaymentsAnalytics/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [`games_paid_users.csv`](./games_paid_users.csv) — user data  
-- [`games_payments.csv`](./games_payments.csv) — payments data  
+- [`games_paid_users.csv`](./games_paid_users.csv)  user data  
+- [`games_payments.csv`](./games_payments.csv)  payments data  
