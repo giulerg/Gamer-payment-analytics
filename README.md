@@ -27,6 +27,9 @@ Data was taken from a PostgreSQL database and exported to CSV files. The CSV fil
 - Flexible filters were implemented for interactive analysis.
 - The dashboard provides a tool for assessing the financial health of the product and monitoring user behavior.
 
+## Dashboard Preview
+![Dashboard Overview](./project.png)
+
 ## Conclusions
 As a result of the analysis, key subscription metrics were calculated and visualized.  
 The dashboard revealed several important insights:
