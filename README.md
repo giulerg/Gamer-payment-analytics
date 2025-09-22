@@ -1,4 +1,4 @@
-# Revenue Metrics Dashboard (MRR, ARPPU, Churn, LTV, LT)
+# Game Payment Analytics (SQL, Tableau)
 
 ## Project Description
 This project focuses on analyzing subscription-based revenue metrics and visualizing them in an interactive dashboard. 
